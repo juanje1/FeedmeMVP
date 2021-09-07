@@ -1,5 +1,5 @@
 # FeedmeMVP
-Application for showing a post list with MVP Architecture, Dagger2, Retrofit2, Rx, Moshi and DataBinding
+Application for showing a post list with MVP Architecture, Dagger2, Retrofit2, Moshi, RxJava2 and DataBinding
 
 ## Description
 The application has the following characteristics:
@@ -9,9 +9,9 @@ The application has the following characteristics:
 - Singleton
 - Generics
 - MVP Architecture
-- Dagger2 (for dependencies)
-- Retrofit2 (for calling to the API)
-- Rx (for subscribing to API calls)
-- Moshi (for parsing the JSON)
-- DataBinding (for mapping the views)
+- Dagger2
+- Retrofit2
+- Moshi
+- RxJava2
+- DataBinding
 - Views: ProgressBar, RecyclerView, TextView
